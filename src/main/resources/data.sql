@@ -1,0 +1,12 @@
+INSTERT INTO amenity (amenity) VALUES ('dog friendly');
+INSTERT INTO amenity (amenity) VALUES ('cat friendly');
+INSTERT INTO amenity (amenity) VALUES ('turtle friendlu');
+INSTERT INTO amenity (amenity) VALUES ('chicken friendly');
+INSTERT INTO amenity (amenity) VALUES ('restrooms');
+INSTERT INTO amenity (amenity) VALUES ('fenced area');
+INSTERT INTO amenity (amenity) VALUES ('hot dog stand');
+INSTERT INTO amenity (amenity) VALUES ('parking area');
+INSTERT INTO amenity (amenity) VALUES ('wifi');
+INSTERT INTO amenity (amenity) VALUES ('vending machine');
+INSTERT INTO amenity (amenity) VALUES ('lake');
+INSTERT INTO amenity (amenity) VALUES ('docent');
