@@ -30,3 +30,9 @@ petParkId,ContributorId,amenities
 'docent'
 
 <img width="880" alt="Screen Shot 2023-08-17 at 1 04 19 PM" src="https://github.com/White-OvO/JPA-Pet-Parks-Location/assets/120700219/0b379078-c190-4ba5-998f-b078f2f4c075">
+
+
+
+## application yaml
+
+<img width="846" alt="Screen Shot 2023-08-17 at 11 23 37 PM" src="https://github.com/White-OvO/JPA-Pet-Parks-Location/assets/120700219/df323bb4-025c-440f-95a3-e0e71d55881b">
