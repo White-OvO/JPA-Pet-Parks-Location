@@ -1,7 +1,9 @@
 # JPA-Pet-Parks-Location
 
 
-# project Entitys
+# project Entities
+
+petParkId,ContributorId,amenities
 <img width="187" alt="Screen Shot 2023-08-17 at 12 55 12 PM" src="https://github.com/White-OvO/JPA-Pet-Parks-Location/assets/120700219/a0cd5fff-b6a3-4e96-8987-8c11d5414736">
 
 # ER Diagram
