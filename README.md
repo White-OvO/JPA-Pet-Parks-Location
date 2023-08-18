@@ -13,6 +13,18 @@
 
 ## sql injections
 
- Amenities 
+         Amenities 
+'dog friendly'
+'cat friendly'
+'turtle friendlu'
+'chicken friendly'
+'restrooms'
+'fenced area'
+'hot dog stand'
+'parking area'
+'wifi'
+'vending machine'
+'lake'
+'docent'
 
 <img width="880" alt="Screen Shot 2023-08-17 at 1 04 19 PM" src="https://github.com/White-OvO/JPA-Pet-Parks-Location/assets/120700219/0b379078-c190-4ba5-998f-b078f2f4c075">
